@@ -8,6 +8,9 @@
 
 Get all your travel destination insights in one app
 
+Insipired by [
+Mohamad Chalaky]("https://www.figma.com/community/file/1165219160023778067")
+
 ## 🏗 Get Started
 
 ### Clone the project
