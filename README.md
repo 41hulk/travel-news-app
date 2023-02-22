@@ -1,16 +1,28 @@
-# travelui
+# Travel News App - Flutter ♻️
 
-A new Flutter project.
+## 👤 Author
 
-## Getting Started
+- Guy Ntare
 
-This project is a starting point for a Flutter application.
+## 🌈 About
 
-A few resources to get you started if this is your first Flutter project:
+Get all your travel destination insights in one app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏗 Get Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Clone the project
+
+```bash
+  git clone https://github.com/41hulk/travel-news-app.git
+```
+
+### Install node modules
+
+```bash
+  cd r3fvm
+  flutter run
+```
+
+## ✅ Contributing
+
+PRs and issues are always welcome. Feel free to submit any issues or ideas you have at the [issues page](https://github.com/41hulk/travel-news-app/issues).
